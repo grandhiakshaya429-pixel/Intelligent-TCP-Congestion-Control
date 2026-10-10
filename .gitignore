@@ -1,0 +1,27 @@
+# Python virtual environments
+ml-venv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ns-3 build files
+ns-3/build/
+ns-3/cmake-cache/
+
+# ZIP archives
+*.zip
+
+# Nested Git metadata
+ns-3/.git/
+
+# Temporary files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/

@@ -1,0 +1,6 @@
+bandwidth_mbps,delay_ms,throughput_mbps,mean_delay_ms,tx_packets,rx_packets,lost_packets,loss_rate_percent,congestion_label
+10.0,50.0,9.207,65.7095,40939,40793,0,0.0,Low
+10.0,150.0,3.36057,151.312,14988,14878,0,0.0,Medium
+5.0,100.0,4.47391,131.531,19957,19813,0,0.0,Medium
+2.0,50.0,1.85574,229.646,8050,7898,29,0.3602484472049689,High
+1.0,100.0,0.846205,359.698,3725,3603,35,0.9395973154362416,High
