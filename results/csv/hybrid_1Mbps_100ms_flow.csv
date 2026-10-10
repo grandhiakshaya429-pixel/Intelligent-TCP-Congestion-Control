@@ -1,3 +1,0 @@
-FlowId,TxPackets,RxPackets,LostPackets,TxBytes,RxBytes,ThroughputMbps,MeanDelayMs
-1,3892,3805,34,2285740,2234584,0.893834,251.312
-2,2049,2039,0,112792,112272,0.0449088,100.456
