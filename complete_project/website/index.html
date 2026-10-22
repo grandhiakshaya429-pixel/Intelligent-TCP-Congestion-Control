@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0b1020"><title>Hybrid TCP | Intelligent Congestion Control</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#overview"><span class="brand-mark">⇄</span><span><b>HYBRID TCP</b><small>INTELLIGENT NETWORKS</small></span></a>
+      <div class="nav-label">WORKSPACE</div>
+      <a class="nav-link active" href="#overview"><span>▦</span> Overview</a>
+      <a class="nav-link" href="#performance"><span>⌁</span> Performance</a>
+      <a class="nav-link" href="#controller"><span>◈</span> Controller insights</a>
+      <a class="nav-link" href="#architecture"><span>⎇</span> Architecture</a>
+      <a class="nav-link" href="#results"><span>▤</span> Results & files</a>
+      <div class="sidebar-bottom"><div class="status-dot"></div><div><b>Simulation results</b><small>Pre-recorded experiment data</small></div></div>
+    </aside>
+    <main class="main-content">
+      <header class="topbar"><div><div class="eyebrow">NETWORK INTELLIGENCE / PROJECT DEMO</div><h1>Congestion Control Dashboard</h1></div><div class="top-pill"><span class="pulse"></span> EXPERIMENTAL RESULTS</div></header>
+      <section class="hero" id="overview">
+        <div class="hero-copy"><div class="tag">ML + REINFORCEMENT LEARNING</div><h2>Smarter decisions.<br><em>Clearer network insights.</em></h2><p>An ns-3 research prototype combining Random Forest congestion classification with a PPO policy to adjust the TCP congestion window.</p><div class="hero-actions"><a class="button primary" href="#performance">Explore results <span>↗</span></a><a class="button secondary" href="#architecture">View architecture</a></div></div>
+        <div class="hero-visual"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="core-node">TCP<br><b>HYBRID</b></div><div class="node node-a">ML<span>Random Forest</span></div><div class="node node-b">RL<span>PPO policy</span></div><div class="node node-c">ns-3<span>Network model</span></div><div class="connector c1"></div><div class="connector c2"></div><div class="connector c3"></div></div>
+      </section>
+      <section class="stats-grid">
+        <article class="stat-card"><div class="stat-top"><span>Scenarios evaluated</span><span class="stat-icon">▦</span></div><div class="stat-value" id="scenarioCount">6</div><div class="stat-foot">Reno vs hybrid controller</div></article>
+        <article class="stat-card"><div class="stat-top"><span>Lower mean delay</span><span class="stat-icon">↘</span></div><div class="stat-value">6 <small>/ 6</small></div><div class="stat-foot positive">Observed in all included scenarios</div></article>
+        <article class="stat-card"><div class="stat-top"><span>Higher throughput</span><span class="stat-icon">⌁</span></div><div class="stat-value" id="throughputWins">2 <small>/ 6</small></div><div class="stat-foot">Scenario-dependent results</div></article>
+        <article class="stat-card"><div class="stat-top"><span>Control approach</span><span class="stat-icon">◈</span></div><div class="stat-value text-value">RF + PPO</div><div class="stat-foot">Classification + action policy</div></article>
+      </section>
+      <section class="section" id="performance"><div class="section-heading"><div><div class="eyebrow">PERFORMANCE OVERVIEW</div><h2>Compare the controllers</h2><p>Choose a network scenario to inspect its recorded metrics.</p></div><select id="scenarioSelect" aria-label="Choose scenario"></select></div>
+        <div class="metric-grid"><article class="panel chart-panel"><div class="panel-title"><div><h3>Throughput</h3><p>Flow 1 · Mbps</p></div><span class="legend-chip"><i class="reno-dot"></i> Reno <i class="hybrid-dot"></i> Hybrid</span></div><div class="chart-wrap"><canvas id="throughputChart"></canvas></div><div class="chart-note" id="throughputNote"></div></article>
+        <article class="panel chart-panel"><div class="panel-title"><div><h3>Mean delay</h3><p>Flow 1 · milliseconds</p></div><span class="legend-chip"><i class="reno-dot"></i> Reno <i class="hybrid-dot"></i> Hybrid</span></div><div class="chart-wrap"><canvas id="delayChart"></canvas></div><div class="chart-note" id="delayNote"></div></article></div>
+        <div class="panel table-panel"><div class="panel-title"><div><h3>All scenario results</h3><p>Values copied from the supplied comparison CSV.</p></div><span class="table-badge">6 EXPERIMENTS</span></div><div class="table-scroll"><table><thead><tr><th>Scenario</th><th>Reno throughput</th><th>Hybrid throughput</th><th>Throughput Δ</th><th>Reno delay</th><th>Hybrid delay</th><th>Delay Δ</th><th>Reported loss (R/H)</th></tr></thead><tbody id="comparisonBody"></tbody></table></div><p class="footnote">Reported lost-packet values are shown as recorded by the project’s FlowMonitor output; they are not inferred from Tx–Rx packet differences.</p></div>
+      </section>
+      <section class="section" id="controller"><div class="section-heading"><div><div class="eyebrow">DECISION TRACE</div><h2>Inside the hybrid controller</h2><p>Recorded decisions from the 10 Mbps / 50 ms example run.</p></div><span class="table-badge">SAMPLE TRACE</span></div>
+        <div class="metric-grid"><article class="panel chart-panel"><div class="panel-title"><div><h3>Congestion window over time</h3><p>CWND · bytes</p></div><span class="mini-label">RECORDED TRACE</span></div><div class="chart-wrap tall"><canvas id="cwndChart"></canvas></div></article><article class="panel chart-panel"><div class="panel-title"><div><h3>Controller actions</h3><p>Counts in the included decision log</p></div></div><div class="chart-wrap tall"><canvas id="actionChart"></canvas></div><div class="insight-box"><b>How to interpret</b><p>The PPO action is a policy output; TCP window growth can also occur between decision intervals. A “Maintain” action does not imply that CWND remains constant for the entire simulation.</p></div></article></div>
+      </section>
+      <section class="section" id="architecture"><div class="section-heading"><div><div class="eyebrow">SYSTEM DESIGN</div><h2>How the pieces connect</h2><p>High-level data flow in the prototype.</p></div></div><div class="architecture panel"><div class="flow-node"><span>01</span><b>ns-3 network</b><small>Bandwidth · delay · TCP flow</small></div><div class="flow-arrow">→</div><div class="flow-node"><span>02</span><b>Metrics</b><small>CWND · RTT · throughput</small></div><div class="flow-arrow">→</div><div class="flow-node accent-node"><span>03</span><b>Random Forest</b><small>Congestion classification</small></div><div class="flow-arrow">→</div><div class="flow-node accent-node"><span>04</span><b>PPO policy</b><small>Decrease · Maintain · Increase</small></div><div class="flow-arrow">→</div><div class="flow-node"><span>05</span><b>Evaluation</b><small>Reno comparison · CSV logs</small></div></div><div class="notice"><b>Prototype limitation</b><p>The current dashboard visualizes saved experiment outputs; it does not launch a new ns-3 simulation from the browser. Runtime features and training features are not perfectly aligned in the current prototype, so results should be interpreted as experimental rather than production-ready.</p></div></section>
+      <section class="section" id="results"><div class="section-heading"><div><div class="eyebrow">PROJECT ARTIFACTS</div><h2>Results & files</h2><p>Open graphs generated by the project or inspect the raw data.</p></div></div><div class="file-grid"><a class="file-card" href="assets/results/throughput_comparison.png" target="_blank"><span class="file-icon">▥</span><b>Throughput comparison</b><small>PNG · Reno vs hybrid</small><span class="file-open">Open graph ↗</span></a><a class="file-card" href="assets/results/delay_comparison.png" target="_blank"><span class="file-icon">⌁</span><b>Delay comparison</b><small>PNG · mean delay</small><span class="file-open">Open graph ↗</span></a><a class="file-card" href="assets/results/cwnd_comparison_10Mbps_50ms.png" target="_blank"><span class="file-icon">⌁</span><b>CWND comparison</b><small>PNG · 10 Mbps / 50 ms</small><span class="file-open">Open graph ↗</span></a><a class="file-card" href="assets/results/hybrid_vs_reno_comparison.csv" target="_blank"><span class="file-icon">CSV</span><b>Comparison data</b><small>CSV · six scenarios</small><span class="file-open">View raw data ↗</span></a><a class="file-card" href="assets/results/hybrid_10Mbps_50ms_decisions.csv" target="_blank"><span class="file-icon">CSV</span><b>Decision log</b><small>CSV · RF and PPO decisions</small><span class="file-open">View raw data ↗</span></a></div></section>
+      <footer><div class="brand-mini"><span class="brand-mark">⇄</span><b>HYBRID TCP</b></div><span>Research prototype · ns-3 + Random Forest + PPO</span><span>Metrics are based on included experiment files.</span></footer>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body></html>

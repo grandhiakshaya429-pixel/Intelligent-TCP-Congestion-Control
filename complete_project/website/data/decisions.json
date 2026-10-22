@@ -1,0 +1,1882 @@
+[
+  {
+    "TimeSeconds": 1.200651,
+    "RF_Classification": "Low",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5360.0,
+    "RTT_Ms": 100.0,
+    "Throughput_Mbps": 0.04288,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 536.0
+  },
+  {
+    "TimeSeconds": 1.301166,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7504.0,
+    "RTT_Ms": 113.0,
+    "Throughput_Mbps": 0.426602,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5896.0
+  },
+  {
+    "TimeSeconds": 1.402154,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 12864.0,
+    "RTT_Ms": 106.0,
+    "Throughput_Mbps": 0.594452,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 13400.0
+  },
+  {
+    "TimeSeconds": 1.503141,
+    "RF_Classification": "Low",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 17688.0,
+    "RTT_Ms": 103.0,
+    "Throughput_Mbps": 0.849217,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 24120.0
+  },
+  {
+    "TimeSeconds": 1.603656,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 25728.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 1.365127,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 41272.0
+  },
+  {
+    "TimeSeconds": 1.704643,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 45667.0,
+    "RTT_Ms": 105.0,
+    "Throughput_Mbps": 2.03812,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 67000.0
+  },
+  {
+    "TimeSeconds": 1.805158,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 63891.0,
+    "RTT_Ms": 118.0,
+    "Throughput_Mbps": 2.986215,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 104520.0
+  },
+  {
+    "TimeSeconds": 1.905674,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 94979.0,
+    "RTT_Ms": 127.0,
+    "Throughput_Mbps": 5.033905,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 167768.0
+  },
+  {
+    "TimeSeconds": 2.006189,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 141611.0,
+    "RTT_Ms": 128.0,
+    "Throughput_Mbps": 7.508198,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 262104.0
+  },
+  {
+    "TimeSeconds": 2.106826,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 198427.0,
+    "RTT_Ms": 132.0,
+    "Throughput_Mbps": 9.075646,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 376272.0
+  },
+  {
+    "TimeSeconds": 2.207347,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 257387.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 489904.0
+  },
+  {
+    "TimeSeconds": 2.30785,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 316347.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.045117,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 603536.0
+  },
+  {
+    "TimeSeconds": 2.408371,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 375307.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 717168.0
+  },
+  {
+    "TimeSeconds": 2.508893,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 434267.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 830800.0
+  },
+  {
+    "TimeSeconds": 2.609414,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 493227.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 944432.0
+  },
+  {
+    "TimeSeconds": 2.709936,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 552187.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 1058064.0
+  },
+  {
+    "TimeSeconds": 2.810458,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 611147.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 1171696.0
+  },
+  {
+    "TimeSeconds": 2.910979,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 670107.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 1285328.0
+  },
+  {
+    "TimeSeconds": 3.011501,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 729067.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 1398960.0
+  },
+  {
+    "TimeSeconds": 3.112022,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 788027.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 1512592.0
+  },
+  {
+    "TimeSeconds": 3.212544,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 846987.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 1626224.0
+  },
+  {
+    "TimeSeconds": 3.313066,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 905947.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 1739856.0
+  },
+  {
+    "TimeSeconds": 3.413587,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 964907.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 1853488.0
+  },
+  {
+    "TimeSeconds": 3.514109,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1023867.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 1967120.0
+  },
+  {
+    "TimeSeconds": 3.61463,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1082827.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 2080752.0
+  },
+  {
+    "TimeSeconds": 3.715152,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1141787.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 2194920.0
+  },
+  {
+    "TimeSeconds": 3.815674,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1200747.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 2308552.0
+  },
+  {
+    "TimeSeconds": 3.916195,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1259707.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 2422184.0
+  },
+  {
+    "TimeSeconds": 4.016717,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1318667.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 2535816.0
+  },
+  {
+    "TimeSeconds": 4.117238,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1377627.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 2649448.0
+  },
+  {
+    "TimeSeconds": 4.21776,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1436587.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 2763080.0
+  },
+  {
+    "TimeSeconds": 4.318282,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1495547.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 2876712.0
+  },
+  {
+    "TimeSeconds": 4.418803,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1554507.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 2990344.0
+  },
+  {
+    "TimeSeconds": 4.519325,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1613467.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 3103976.0
+  },
+  {
+    "TimeSeconds": 4.619846,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1672427.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 3217608.0
+  },
+  {
+    "TimeSeconds": 4.720368,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1731387.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 3331240.0
+  },
+  {
+    "TimeSeconds": 4.82089,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1790347.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 3444872.0
+  },
+  {
+    "TimeSeconds": 4.921411,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1849307.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 3558504.0
+  },
+  {
+    "TimeSeconds": 5.021933,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1908267.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 3672136.0
+  },
+  {
+    "TimeSeconds": 5.122454,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 1967227.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 3785768.0
+  },
+  {
+    "TimeSeconds": 5.222976,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2026187.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 3899400.0
+  },
+  {
+    "TimeSeconds": 5.323498,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2085147.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 4013568.0
+  },
+  {
+    "TimeSeconds": 5.424019,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2144107.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 4127200.0
+  },
+  {
+    "TimeSeconds": 5.524541,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2203067.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 4240832.0
+  },
+  {
+    "TimeSeconds": 5.625062,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2262027.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 4354464.0
+  },
+  {
+    "TimeSeconds": 5.725584,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2320987.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 4468096.0
+  },
+  {
+    "TimeSeconds": 5.826106,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2379947.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 4581728.0
+  },
+  {
+    "TimeSeconds": 5.926627,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2438907.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 4695360.0
+  },
+  {
+    "TimeSeconds": 6.027149,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2497867.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 4808992.0
+  },
+  {
+    "TimeSeconds": 6.12767,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2556827.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 4922624.0
+  },
+  {
+    "TimeSeconds": 6.228192,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2615787.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5036256.0
+  },
+  {
+    "TimeSeconds": 6.328714,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2674747.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5149888.0
+  },
+  {
+    "TimeSeconds": 6.429235,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2733707.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5263520.0
+  },
+  {
+    "TimeSeconds": 6.529757,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2792667.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5377152.0
+  },
+  {
+    "TimeSeconds": 6.630278,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2851627.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5490784.0
+  },
+  {
+    "TimeSeconds": 6.7308,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2910587.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5604416.0
+  },
+  {
+    "TimeSeconds": 6.831322,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 2969547.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5718048.0
+  },
+  {
+    "TimeSeconds": 6.931843,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3028507.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5831680.0
+  },
+  {
+    "TimeSeconds": 7.032365,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3087467.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 5945848.0
+  },
+  {
+    "TimeSeconds": 7.132886,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3146427.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 6059480.0
+  },
+  {
+    "TimeSeconds": 7.233408,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3205387.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 6173112.0
+  },
+  {
+    "TimeSeconds": 7.33393,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3264347.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 6286744.0
+  },
+  {
+    "TimeSeconds": 7.434451,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3323307.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 6400376.0
+  },
+  {
+    "TimeSeconds": 7.534973,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3382267.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 6514008.0
+  },
+  {
+    "TimeSeconds": 7.635494,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3441227.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 6627640.0
+  },
+  {
+    "TimeSeconds": 7.736016,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3500187.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 6741272.0
+  },
+  {
+    "TimeSeconds": 7.836538,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3559147.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 6854904.0
+  },
+  {
+    "TimeSeconds": 7.937059,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3618107.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 6968536.0
+  },
+  {
+    "TimeSeconds": 8.037581,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3677067.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 7082168.0
+  },
+  {
+    "TimeSeconds": 8.138102,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3736027.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 7195800.0
+  },
+  {
+    "TimeSeconds": 8.238624,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3794987.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 7309432.0
+  },
+  {
+    "TimeSeconds": 8.339146,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3853947.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 7423064.0
+  },
+  {
+    "TimeSeconds": 8.439667,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3912907.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 7536696.0
+  },
+  {
+    "TimeSeconds": 8.540189,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 3971867.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 7650328.0
+  },
+  {
+    "TimeSeconds": 8.64071,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4030827.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 7763960.0
+  },
+  {
+    "TimeSeconds": 8.741232,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 4260194.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 7878128.0
+  },
+  {
+    "TimeSeconds": 8.841754,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4319154.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 7991760.0
+  },
+  {
+    "TimeSeconds": 8.942275,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4378114.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 8105392.0
+  },
+  {
+    "TimeSeconds": 9.042797,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4437074.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 8219024.0
+  },
+  {
+    "TimeSeconds": 9.143318,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4496034.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 8332656.0
+  },
+  {
+    "TimeSeconds": 9.24384,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4554994.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 8446288.0
+  },
+  {
+    "TimeSeconds": 9.344362,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4613954.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 8559920.0
+  },
+  {
+    "TimeSeconds": 9.444883,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4672914.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 8673552.0
+  },
+  {
+    "TimeSeconds": 9.545405,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4731874.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 8787184.0
+  },
+  {
+    "TimeSeconds": 9.645926,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4790834.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 8900816.0
+  },
+  {
+    "TimeSeconds": 9.746448,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4849794.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 9014448.0
+  },
+  {
+    "TimeSeconds": 9.84697,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4908754.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 9128080.0
+  },
+  {
+    "TimeSeconds": 9.947491,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 4967714.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 9241712.0
+  },
+  {
+    "TimeSeconds": 10.048013,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5026674.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 9355344.0
+  },
+  {
+    "TimeSeconds": 10.148534,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 5085634.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 9468976.0
+  },
+  {
+    "TimeSeconds": 10.249056,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 5144594.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 9582608.0
+  },
+  {
+    "TimeSeconds": 10.349578,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 5203554.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 9696240.0
+  },
+  {
+    "TimeSeconds": 10.450099,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 5262514.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 9810408.0
+  },
+  {
+    "TimeSeconds": 10.550621,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5321474.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 9924040.0
+  },
+  {
+    "TimeSeconds": 10.651142,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 5380434.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 10037672.0
+  },
+  {
+    "TimeSeconds": 10.751664,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5439394.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 10151304.0
+  },
+  {
+    "TimeSeconds": 10.852186,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5498354.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 10264936.0
+  },
+  {
+    "TimeSeconds": 10.952707,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5557314.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 10378568.0
+  },
+  {
+    "TimeSeconds": 11.053229,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5616274.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 10492200.0
+  },
+  {
+    "TimeSeconds": 11.15375,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5675234.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 10605832.0
+  },
+  {
+    "TimeSeconds": 11.254272,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5734194.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 10719464.0
+  },
+  {
+    "TimeSeconds": 11.354794,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5793154.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 10833096.0
+  },
+  {
+    "TimeSeconds": 11.455315,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5852114.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 10946728.0
+  },
+  {
+    "TimeSeconds": 11.555837,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5911074.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 11060360.0
+  },
+  {
+    "TimeSeconds": 11.656358,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 5970034.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 11173992.0
+  },
+  {
+    "TimeSeconds": 11.75688,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6028994.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 11287624.0
+  },
+  {
+    "TimeSeconds": 11.857402,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6087954.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 11401256.0
+  },
+  {
+    "TimeSeconds": 11.957923,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6146914.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 11514888.0
+  },
+  {
+    "TimeSeconds": 12.058445,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 6205874.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 11629056.0
+  },
+  {
+    "TimeSeconds": 12.158966,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6264834.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 11742688.0
+  },
+  {
+    "TimeSeconds": 12.259488,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6323794.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 11856320.0
+  },
+  {
+    "TimeSeconds": 12.36001,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6382754.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 11969952.0
+  },
+  {
+    "TimeSeconds": 12.460531,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6441714.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 12083584.0
+  },
+  {
+    "TimeSeconds": 12.561053,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6500674.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 12197216.0
+  },
+  {
+    "TimeSeconds": 12.661574,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6559634.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 12310848.0
+  },
+  {
+    "TimeSeconds": 12.762096,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6618594.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 12424480.0
+  },
+  {
+    "TimeSeconds": 12.862618,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6677554.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 12538112.0
+  },
+  {
+    "TimeSeconds": 12.963139,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6736514.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 12651744.0
+  },
+  {
+    "TimeSeconds": 13.063661,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6795474.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 12765376.0
+  },
+  {
+    "TimeSeconds": 13.164182,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6854434.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 12879008.0
+  },
+  {
+    "TimeSeconds": 13.264704,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6913394.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 12992640.0
+  },
+  {
+    "TimeSeconds": 13.365226,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 6972354.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 13106272.0
+  },
+  {
+    "TimeSeconds": 13.465747,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7031314.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 13219904.0
+  },
+  {
+    "TimeSeconds": 13.566269,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7090274.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 13333536.0
+  },
+  {
+    "TimeSeconds": 13.66679,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7149234.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 13447168.0
+  },
+  {
+    "TimeSeconds": 13.767312,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 7208194.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 13561336.0
+  },
+  {
+    "TimeSeconds": 13.867834,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7267154.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 13674968.0
+  },
+  {
+    "TimeSeconds": 13.968355,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7326114.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 13788600.0
+  },
+  {
+    "TimeSeconds": 14.068877,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7385074.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 13902232.0
+  },
+  {
+    "TimeSeconds": 14.169398,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7444034.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 14015864.0
+  },
+  {
+    "TimeSeconds": 14.26992,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7502994.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 14129496.0
+  },
+  {
+    "TimeSeconds": 14.370442,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7561954.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 14243128.0
+  },
+  {
+    "TimeSeconds": 14.470963,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7620914.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 14356760.0
+  },
+  {
+    "TimeSeconds": 14.571485,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7679874.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 14470392.0
+  },
+  {
+    "TimeSeconds": 14.672006,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7738834.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 14584024.0
+  },
+  {
+    "TimeSeconds": 14.772528,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7797794.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 14697656.0
+  },
+  {
+    "TimeSeconds": 14.87305,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7856754.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 14811288.0
+  },
+  {
+    "TimeSeconds": 14.973571,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7915714.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 14924920.0
+  },
+  {
+    "TimeSeconds": 15.074093,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 7974674.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 15038552.0
+  },
+  {
+    "TimeSeconds": 15.174614,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8033634.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 15152184.0
+  },
+  {
+    "TimeSeconds": 15.275136,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8092594.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 15265816.0
+  },
+  {
+    "TimeSeconds": 15.375658,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8151554.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 15379448.0
+  },
+  {
+    "TimeSeconds": 15.476179,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 8210514.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 15493616.0
+  },
+  {
+    "TimeSeconds": 15.576701,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8269474.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 15607248.0
+  },
+  {
+    "TimeSeconds": 15.677222,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8328434.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 15720880.0
+  },
+  {
+    "TimeSeconds": 15.777744,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8387394.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 15834512.0
+  },
+  {
+    "TimeSeconds": 15.878266,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8446354.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 15948144.0
+  },
+  {
+    "TimeSeconds": 15.978787,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8505314.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 16061776.0
+  },
+  {
+    "TimeSeconds": 16.079309,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8564274.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 16175408.0
+  },
+  {
+    "TimeSeconds": 16.17983,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8623234.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 16289040.0
+  },
+  {
+    "TimeSeconds": 16.280352,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8682194.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 16402672.0
+  },
+  {
+    "TimeSeconds": 16.380874,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8741154.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 16516304.0
+  },
+  {
+    "TimeSeconds": 16.481395,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8800114.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 16629936.0
+  },
+  {
+    "TimeSeconds": 16.581917,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8859074.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 16743568.0
+  },
+  {
+    "TimeSeconds": 16.682438,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8918034.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 16857200.0
+  },
+  {
+    "TimeSeconds": 16.78296,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 8976994.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 16970832.0
+  },
+  {
+    "TimeSeconds": 16.883482,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9035954.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 17084464.0
+  },
+  {
+    "TimeSeconds": 16.984003,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9094914.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 17198096.0
+  },
+  {
+    "TimeSeconds": 17.084525,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9153874.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 17311728.0
+  },
+  {
+    "TimeSeconds": 17.185046,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 9212834.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 17425896.0
+  },
+  {
+    "TimeSeconds": 17.285568,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9271794.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 17539528.0
+  },
+  {
+    "TimeSeconds": 17.38609,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9330754.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 17653160.0
+  },
+  {
+    "TimeSeconds": 17.486611,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9389714.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 17766792.0
+  },
+  {
+    "TimeSeconds": 17.587133,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9448674.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 17880424.0
+  },
+  {
+    "TimeSeconds": 17.687654,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9507634.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 17994056.0
+  },
+  {
+    "TimeSeconds": 17.788176,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9566594.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 18107688.0
+  },
+  {
+    "TimeSeconds": 17.888698,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9625554.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 18221320.0
+  },
+  {
+    "TimeSeconds": 17.989219,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9684514.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 18334952.0
+  },
+  {
+    "TimeSeconds": 18.089741,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9743474.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 18448584.0
+  },
+  {
+    "TimeSeconds": 18.190262,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9802434.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 18562216.0
+  },
+  {
+    "TimeSeconds": 18.290784,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9861394.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 18675848.0
+  },
+  {
+    "TimeSeconds": 18.391306,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9920354.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 18789480.0
+  },
+  {
+    "TimeSeconds": 18.491827,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 9979314.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 18903112.0
+  },
+  {
+    "TimeSeconds": 18.592349,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10038274.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 19016744.0
+  },
+  {
+    "TimeSeconds": 18.69287,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10097234.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 19130376.0
+  },
+  {
+    "TimeSeconds": 18.793392,
+    "RF_Classification": "Low",
+    "PPO_Action": "Increase",
+    "CWND_Bytes": 10156194.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.086047,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 19244544.0
+  },
+  {
+    "TimeSeconds": 18.893914,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10215154.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 19358176.0
+  },
+  {
+    "TimeSeconds": 18.994435,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10274114.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 19471808.0
+  },
+  {
+    "TimeSeconds": 19.094957,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10333074.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 19585440.0
+  },
+  {
+    "TimeSeconds": 19.195478,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10392034.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 19699072.0
+  },
+  {
+    "TimeSeconds": 19.296,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10450994.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 19812704.0
+  },
+  {
+    "TimeSeconds": 19.396522,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10509954.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 19926336.0
+  },
+  {
+    "TimeSeconds": 19.497043,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10568914.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 20039968.0
+  },
+  {
+    "TimeSeconds": 19.597565,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10627874.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 20153600.0
+  },
+  {
+    "TimeSeconds": 19.698086,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10686834.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 20267232.0
+  },
+  {
+    "TimeSeconds": 19.798608,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10745794.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 20380864.0
+  },
+  {
+    "TimeSeconds": 19.89913,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10804754.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 20494496.0
+  },
+  {
+    "TimeSeconds": 19.999651,
+    "RF_Classification": "Medium",
+    "PPO_Action": "Maintain",
+    "CWND_Bytes": 10863714.0,
+    "RTT_Ms": 115.0,
+    "Throughput_Mbps": 9.04339,
+    "LossRatePercent": 0.0,
+    "AckedBytes": 20608128.0
+  }
+]

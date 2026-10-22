@@ -1,0 +1,68 @@
+[
+  {
+    "scenario": "10Mbps_150ms",
+    "renoThroughput": 3.36057,
+    "hybridThroughput": 3.17984,
+    "throughputChange": -5.377956715676211,
+    "renoDelay": 151.312,
+    "hybridDelay": 151.288,
+    "delayChange": -0.015861266786507948,
+    "renoLost": 0,
+    "hybridLost": 0
+  },
+  {
+    "scenario": "10Mbps_25ms",
+    "renoThroughput": 9.2732,
+    "hybridThroughput": 9.28939,
+    "throughputChange": 0.1745891385929337,
+    "renoDelay": 56.3394,
+    "hybridDelay": 53.1414,
+    "delayChange": -5.676311781808114,
+    "renoLost": 8,
+    "hybridLost": 3
+  },
+  {
+    "scenario": "10Mbps_50ms",
+    "renoThroughput": 9.207,
+    "hybridThroughput": 9.10505,
+    "throughputChange": -1.107309655696757,
+    "renoDelay": 65.7095,
+    "hybridDelay": 65.6083,
+    "delayChange": -0.15401121603421988,
+    "renoLost": 0,
+    "hybridLost": 0
+  },
+  {
+    "scenario": "1Mbps_100ms",
+    "renoThroughput": 0.846205,
+    "hybridThroughput": 0.893834,
+    "throughputChange": 5.62854154726101,
+    "renoDelay": 359.698,
+    "hybridDelay": 251.312,
+    "delayChange": -30.132500041701643,
+    "renoLost": 35,
+    "hybridLost": 34
+  },
+  {
+    "scenario": "2Mbps_50ms",
+    "renoThroughput": 1.85574,
+    "hybridThroughput": 1.84495,
+    "throughputChange": -0.5814392102341845,
+    "renoDelay": 229.646,
+    "hybridDelay": 213.23,
+    "delayChange": -7.148393614519738,
+    "renoLost": 29,
+    "hybridLost": 0
+  },
+  {
+    "scenario": "5Mbps_100ms",
+    "renoThroughput": 4.47391,
+    "hybridThroughput": 4.34868,
+    "throughputChange": -2.7991175504201062,
+    "renoDelay": 131.531,
+    "hybridDelay": 130.947,
+    "delayChange": -0.4440017942538285,
+    "renoLost": 0,
+    "hybridLost": 0
+  }
+]
